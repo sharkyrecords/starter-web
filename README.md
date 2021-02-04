@@ -12,3 +12,5 @@ Sample website with plenty of files for demos
 Adding some introduction to this file.
 
 ## Deployment
+
+This will be deployed in a testing environment.
