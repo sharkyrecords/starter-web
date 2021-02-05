@@ -10,6 +10,8 @@ Sample website with plenty of files for demos
 ## Introduction
 
 Adding some introduction to this file.
+I am thanking all my friend for their support.
+!
 
 ## Deployment
 
