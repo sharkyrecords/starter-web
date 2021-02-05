@@ -14,3 +14,6 @@ Adding some introduction to this file.
 ## Deployment
 
 This will be deployed in a testing environment.
+
+### Copyright
+putting a copyright here.
