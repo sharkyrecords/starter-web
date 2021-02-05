@@ -2,7 +2,7 @@
 
 This repository is for showing how Git and GitHub work.
 This is a simple read me file for testing purposes.
-
+This version is 2.0.
 ## Purpose
 
 Sample website with plenty of files for demos
